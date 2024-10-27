@@ -587,7 +587,6 @@ ipch/
 *.vspx
 *.sap
 Temp/*
-File Library/PackageCache/*
 # Visual Studio Trace Files
 *.e2e
 
